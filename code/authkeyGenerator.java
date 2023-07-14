@@ -1,4 +1,4 @@
-package org.example;
+
 
 public class authkeyGenerator {
     public static int main(String[] args) {
