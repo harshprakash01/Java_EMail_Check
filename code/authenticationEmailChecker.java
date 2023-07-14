@@ -1,4 +1,4 @@
-package org.example;
+
 
 public class authenticationEmailChecker {
     private static int code = authkeyGenerator.main(null);
