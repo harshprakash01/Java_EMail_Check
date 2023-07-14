@@ -1,4 +1,4 @@
-package org.example;
+
 
 public class Settings {
     private String From = "xyz@gmail.com";   //whole gmail
