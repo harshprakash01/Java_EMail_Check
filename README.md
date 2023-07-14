@@ -25,9 +25,6 @@ if(email_verified){
 
 ## Badges
 
-
-[![Linkedin](https://img.shields.io/badge/Linkedin-Connect-blue.svg)](https://www.linkedin.com/in/harsh44/)
-
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 
